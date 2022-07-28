@@ -10,7 +10,7 @@
             
             homework_2/homework_2.xcodeproj/project.pbxproj 下载这个工程，然后在Xcode里面打开工程，以下是链接
             
-            https://github.com/Zachariah0318/Homework/tree/main/homework_2/homework_2.xcodeproj
+    https://github.com/Zachariah0318/Homework/tree/main/homework_2/homework_2.xcodeproj
             
        
      # 2.2 进入路径：
