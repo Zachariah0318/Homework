@@ -16,6 +16,6 @@
       
    直接在线预览代码（无法运行显示打印的内容） 以下是转到链接
    
-   [在线预览文件转到链接](https://github.com/Zachariah0318/Homework/tree/main/homework_2/homework_2.xcodeproj)
+   [在线预览文件转到链接](https://github.com/Zachariah0318/Homework/tree/main/homework_2/homework_2)
              
             
