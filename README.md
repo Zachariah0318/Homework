@@ -13,7 +13,7 @@
             https://github.com/Zachariah0318/Homework/tree/main/homework_2/homework_2.xcodeproj
             
        
-      2.2 进入路径：
+     # 2.2 进入路径：
       
             直接在线预览代码（无法运行显示打印的内容） 以下是链接
              
