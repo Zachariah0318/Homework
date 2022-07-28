@@ -1,0 +1,15 @@
+App生命周期的各个事件：
+点击程序图标→执行main函数→通过UIApplicationMain函数→初始化UIApplicationMain对象并且为它设置代理对象→UIApplicationMain对象→程序结束退出
+
+ViewController 生命周期的各个事件：
+alloc/int→loadView→viewDidLoad→viewWillAppear→viewDidAppear→viewWillDisppear→viewDidDisappear→dealloc
+
+写出五种常用的 UI 控件:
+UIScrollView，UITableView，UICollectionView，UIWebView，WKWebView。
+
+列举出三个 UITableViewDelegate 声明的方法：
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+
+-(UIView*)tableView:(UITableView*)tableView viewForHeaderInSection: (NSInteger)section;
+
+-(UIView*)tableView:(UITableView*)tableView viewForFooterInSection:(NSInteger)section;
