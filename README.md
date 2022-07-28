@@ -6,4 +6,11 @@
 
 2.第二次作业有两种观看方式
   
-      2.1 进入路径
+      2.1 进入路径:
+            
+            homework_2/homework_2.xcodeproj/project.pbxproj 下载这个工程，然后在Xcode里面打开工程，以下是链接
+            
+       
+      2.2 进入路径：
+      
+            
