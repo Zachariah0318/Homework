@@ -4,7 +4,7 @@
 ## 1.第一次作业如果不想下载这个word看的话也可以点击另一个homework_1在线观看
   ###1.1word下载路径及链接：Homework/homework_1.docx
   
-  [第一次作业的word版本](https://github.com/Zachariah0318/Homework/edit/main/README.md)
+  [第一次作业的word版本](https://github.com/Zachariah0318/Homework/blob/main/homework_1.docx)
   
    ###1.2在线方式 下面是链接
   
